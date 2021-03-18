@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacobJerrell
-- 👀 I’m interested in electricity, electronics, programming, keyboards, plants, and spending time with my wife and children
+- 👀 I’m interested in electricity, electronics, programming, keyboards, value investing, plants, and spending time with my wife and children
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on Android/iOS projects with a taste of Kotlin Multiplatform Mobile
 
